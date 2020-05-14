@@ -1,0 +1,7 @@
+{
+  "1": { "id": 1, "name": "The Black Dahlia Murder", "lastAlbumYear": 2020 },
+  "2": { "id": 2, "name": "Metallica", "lastAlbumYear": 2016 },
+  "3": { "id": 3, "name": "Megadeth", "lastAlbumYear": 2016 },
+  "4": { "id": 4, "name": "Slayer", "lastAlbumYear": 2015 },
+  "5": { "id": 5, "name": "Deftones", "lastAlbumYear": 2016 }
+}
